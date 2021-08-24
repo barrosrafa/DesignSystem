@@ -1,2 +1,3 @@
 rootProject.name = "Design System"
 include ':app'
+include ':component:common'
